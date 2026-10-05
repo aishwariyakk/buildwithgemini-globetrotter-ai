@@ -8,14 +8,15 @@ It delivers interactive travel assistance with rich visual UI cards (**A2UI**), 
 
 ### 🎥 Demo Video Preview
 
-<video src="globetrotter_ai_finland_demo.mp4" controls="controls" width="100%" style="max-width: 800px;">
+<video src="https://raw.githubusercontent.com/aishwariyakk/buildwithgemini-globetrotter-ai/main/globetrotter_ai_finland_demo.mp4" controls="controls" width="100%" style="max-width: 800px;">
   Your browser does not support the video tag.
 </video>
 
 ![GlobeTrotter AI Demo](demo.gif)
 
-* **Direct Video Link (MP4)**: [globetrotter_ai_finland_demo.mp4](globetrotter_ai_finland_demo.mp4)
-* **Direct Video Link (WEBM)**: [globetrotter_ai_finland_demo.webm](globetrotter_ai_finland_demo.webm)
+* 🎬 **Watch Raw MP4 Video**: [globetrotter_ai_finland_demo.mp4](https://raw.githubusercontent.com/aishwariyakk/buildwithgemini-globetrotter-ai/main/globetrotter_ai_finland_demo.mp4)
+* 🎬 **Watch Raw WEBM Video**: [globetrotter_ai_finland_demo.webm](https://raw.githubusercontent.com/aishwariyakk/buildwithgemini-globetrotter-ai/main/globetrotter_ai_finland_demo.webm)
+* 📁 **Browse in Repository**: [View MP4 File](https://github.com/aishwariyakk/buildwithgemini-globetrotter-ai/blob/main/globetrotter_ai_finland_demo.mp4)
 
 ---
 
