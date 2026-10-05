@@ -10,6 +10,21 @@ It delivers interactive travel assistance with rich visual UI cards (**A2UI**), 
 
 ---
 
+## 🎬 Demo Sequence Showcase
+
+1. **Finland Top Attractions Lookup**:
+   - **Query**: `"Find top attractions in Finland"`
+   - **Response**: GlobeTrotter AI queries Firestore and renders an interactive **A2UI Card** listing top Finnish landmarks (**Santa Claus Village**, **Kakslauttanen Glass Igloos**, **Suomenlinna Sea Fortress**, **Temppeliaukio Rock Church**, and **Helsinki Cathedral**) with ratings, price levels, and concise descriptions.
+
+2. **Northern Lights Postcard Image Generation**:
+   - **Query**: `"Generate a postcard of Northern Lights in Santa Claus Village"`
+   - **Response**: GlobeTrotter AI calls **Vertex AI Imagen 3** to synthesize a custom postcard image of the vibrant Aurora Borealis dancing over Santa Claus Village in Rovaniemi, uploads it to **Google Cloud Storage**, and renders an A2UI Image Card.
+
+3. **Full-Screen Dark-Mode Lightbox Preview**:
+   - **Action**: Clicking the rendered postcard opens a full-screen dark-mode modal for high-resolution inspection.
+
+---
+
 ## 🚀 Implemented Capabilities & Architecture
 
 GlobeTrotter AI is designed around a decoupled, event-driven agent architecture using the **A2A (Agent-to-Agent)** protocol.
@@ -51,7 +66,7 @@ GlobeTrotter AI is designed around a decoupled, event-driven agent architecture 
 │       └── index.html          # Chat interface with built-in A2UI card mini-renderer
 ├── agents-cli-manifest.yaml    # Deployment manifest for Agent Runtime / Agent Engine
 ├── seed_firestore.py           # Seed script for initial Firestore travel destination data
-└── demo.gif                    # Loop demo preview
+└── demo.gif                    # Loop demo preview (Finland & Northern Lights)
 ```
 
 ---
