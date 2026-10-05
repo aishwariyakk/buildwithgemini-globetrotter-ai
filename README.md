@@ -8,6 +8,9 @@ It delivers interactive travel assistance with rich visual UI cards (**A2UI**), 
 
 ![GlobeTrotter AI Demo](demo.gif)
 
+* **Christmas Snowman Demo Video (MP4)**: [globetrotter_ai_finland_christmas_demo.mp4](globetrotter_ai_finland_christmas_demo.mp4)
+* **Christmas Snowman Demo Video (WEBM)**: [globetrotter_ai_finland_christmas_demo.webm](globetrotter_ai_finland_christmas_demo.webm)
+
 ---
 
 ## 🎬 Demo Sequence Showcase
