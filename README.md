@@ -6,10 +6,16 @@ It delivers interactive travel assistance with rich visual UI cards (**A2UI**), 
 
 ---
 
+### 🎥 Demo Video Preview
+
+<video src="globetrotter_ai_finland_demo.mp4" controls="controls" width="100%" style="max-width: 800px;">
+  Your browser does not support the video tag.
+</video>
+
 ![GlobeTrotter AI Demo](demo.gif)
 
-* **Demo Video (MP4)**: [globetrotter_ai_finland_demo.mp4](globetrotter_ai_finland_demo.mp4)
-* **Demo Video (WEBM)**: [globetrotter_ai_finland_demo.webm](globetrotter_ai_finland_demo.webm)
+* **Direct Video Link (MP4)**: [globetrotter_ai_finland_demo.mp4](globetrotter_ai_finland_demo.mp4)
+* **Direct Video Link (WEBM)**: [globetrotter_ai_finland_demo.webm](globetrotter_ai_finland_demo.webm)
 
 ---
 
